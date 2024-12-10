@@ -1,12 +1,6 @@
-# Check if the ImportExcel module is installed; if not, install it
-if (-not (Get-Module -ListAvailable -Name ImportExcel)) {
-    Write-Host "ImportExcel module not found. Installing..."
-    Install-Module -Name ImportExcel -Scope CurrentUser -Force
-}
-
 # Input and output file paths
 $InputFile = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\Convert-To-Excel\file.txt"  # Tab-delimited TXT file
-$OutputFile = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\Convert-To-Excel\converted-file.xlsx"  # Desired Excel file path
+$OutputFile = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\Convert-To-Excel\converted-file.csv"  # Desired CSV file path
 
 # Read the input file as plain text to process headers
 Write-Host "Processing the input file to consolidate headers..."
@@ -28,12 +22,13 @@ $DataLines | Out-File -FilePath $TempFile -Append
 Write-Host "Importing data from the processed file..."
 $Data = Import-Csv -Path $TempFile -Delimiter "`t"
 
-# Export the data to an Excel file
-Write-Host "Exporting data to an Excel file..."
-$Data | Export-Excel -Path $OutputFile -AutoSize
+# Export the data to a CSV file
+Write-Host "Exporting data to a CSV file..."
+$Data | Export-Csv -Path $OutputFile -NoTypeInformation -Force
 
 # Cleanup temporary file
 Remove-Item -Path $TempFile -Force
 
-Write-Host "Conversion complete. Excel file saved at $OutputFile"
+Write-Host "Conversion complete. CSV file saved at $OutputFile"
+
 
