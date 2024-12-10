@@ -1,0 +1,57 @@
+Onesource	*Recipient TIN
+	*TIN Type(0 = Undetermined
+1 = EIN
+2 = SSN )	*Customer ID
+	Recipient Acct #
+	*Group	Recipient Entity Type	Recipient Name1
+	Recipient Name2
+	Recipient Name3
+	Recipient Address1	Recipient Address2	Recipient Address3	Recipient City	Recipient State/Province	Recipient Zip/Postal Code	Recipient Country	*Taxable State	*Payer Code or EIN	Box 1 Rents	Box 2 Royalties	Box 3 Other Income	Box 4 Fed Tax w/h	Box 5 Fishing boat proceeds	Box 6 Medical & health care pymts	Box 7 Direct Sales	Box 8 Substitute pymts in lieu of div or int	Box 9 Crop Insurance proceeds	Box 10 Gross proceeds paid to an attorney	Box 12 Sec 409A deferrals	Box 13 Excess golden parachute pymts	Box 14 nonqualified deferred comp	Box 15 State tax w/h	Box 16 State/Payer's state no.	Box 17 State income	Check Number	Check Date	Transaction Description	Print Indicator
+	27-4829474	1	27-4829474				2622-2632 Metairie Lawn, LLC			120 Terry Parkway  			Gretna	LA	70056-0000		LA	84-0755371	102255.85					0	0			0										
+	22-1467904	1	22-1467904				ADP LLC			P. O. Box 830272  			Philadelphia	PA	19182		PA	84-0755371	0					0	37466.17			0										
+	46-3670661	1	46-3670661				Addison Group			7076 Solutions Center  			Chicago	IL	60677-7000		IL	84-0755371	0					0	248091.07			0										
+	27-3033031	1	27-3033031				Alliance Advisors LLC			200 Broadacres Drive, 3rd Floor 			Bloomfield	NJ	7003		NJ	84-0755371	0					0	14000			0										
+	58-0137615	1	58-0137615				Alston & Bird LLP			1201 West Peachtree Street  			Atlanta	GA	30309		GA	84-0755371	0					0	0			27407.5										
+	42-1690572	1	42-1690572				Aubert's 2 Janitorial, LLC			518 Antoine St.  			Houma	LA	70360-0000		LA	84-0755371	0					0	2700			0										
+	85-3333530	1	85-3333530				Austin Enterprise DC LLC			7990 Quantum Drive  			Vienna	VA	22182		VA	84-0755371	0					0	16759.08			0										
+	363-74-5256	1	363-74-5256				Barbara Lick			601 Ramona Street  			Smithville	TX	78957		TX	84-0755371	0					0	6808.67			0										
+	264-58-2300	1	264-58-2300				Betty Conner			4215 Holly Hill Road  			Lake Charles	LA	70605-0000		LA	84-0755371	23400					0	0			0										
+	36-1236610	1	36-1236610				Blue Cross Blue Shield of TX			1001 East Lookout Drive  			Richardson	TX	75082		TX	84-0755371	0					1705549.43	0			0										
+	333-40-2362	1	333-40-2362				Bruce Vandyke			2213 Silktree Court  			Lexington	KY	40513		KY	84-0755371	0					0	14483.95			0										
+	75-1986963	1	75-1986963				Burdett Morgan Williamson & Boykin LLP			500 S. Taylor Suite 900 			Amarillo	TX	79101		TX	84-0755371	0					0	0			2571										
+	42-1658172	1	42-1658172				Clearwater Analytics, LLC			777 W. Main St. Suite 900  			Boise 	ID	83702-0000		ID	84-0755371	0					0	213484.76			0										
+	435-39-1224	1	435-39-1224				DARLENE M WADE			P O BOX 244  			Donaldsonville	LA	70346		LA	84-0755371	0					0	7865			0										
+	435-25-5390	1	435-25-5390				David Schexnayder			101 St. Philip Street  			Donaldsonville	LA	70346-0000		LA	84-0755371	0					0	1550			0										
+	630-30-5964	1	630-30-5964				David Vaden			8200 Foxhound Trail  			Austin	TX	78729		TX	84-0755371	0					0	23750			0										
+	56-2040855	1	56-2040855				Dignus, LLC			8378 Six Forks Road Suite 203 			Raleigh	NC	27615-0000		NC	84-0755371	0					0	2323.58			0										
+	86-2847431	1	86-2847431				FastTrack Software US			PO Box 497  			Hartland	WI	53029		WI	84-0755371	0					0	3633.97			0										
+	45-5000666	1	45-5000666				EmployeeTech			939 W. North Ave Suite 750 			Chicago	IL	60642		IL	84-0755371	0					0	3000			0										
+	34-6565596	1	34-6565596				Ernst & Young, LLP			3712 Solutions Center  			Chicago	IL	60677-3007		IL	84-0755371	0					0	1072263			0										
+	47-5239878	1	47-5239878				FAIRLY CONSULTING GROUP LLC			1800 S WASHINGTON ST SUITE 400  			Amarillo	TX	79102		TX	84-0755371	0					0	766708.61			0										
+	874-40-9692	1	874-40-9692				FORTITUDE INSURANCE GROUP			50 SIESTA CIRCLE  			Freeport	FL	32439		FL	84-0755371	0					0	11683.15			0										
+	72-1338606	1	72-1338606				Federick & Federick Rental Properties			405 S. Chestnut St.  			Tallulah	LA	71282-0000		LA	84-0755371	5600					0	0			0										
+	61-1453500	1	61-1453500				Flowers by Teapot			101 Vatican Drive  			Donaldsonville	LA	70346		LA	84-0755371	0					0	1198.52			0										
+	526-41-9220	1	526-41-9220				Frances Thornton			303 1st Street  			Kentwood	LA	70444		LA	84-0755371	0					0	2025			0										
+	113-56-7092	1	113-56-7092				Gail P Richard			416 Broussard Rd  			Lake Charles	LA	70607		LA	84-0755371	0					0	1350			0										
+	464-23-8998	1	464-23-8998				Gerald W. Shields			1535 Tanglewood Dr. East  			Hideaway	TX	75771		TX	84-0755371	0					0	10077.99			0										
+	95-1611234	1	95-1611234				Gibson, Dunn & Crutcher, LLP			P O Box 840723  			Los Angeles	CA	90084-0723		CA	84-0755371	0					0	0			36439.95										
+	36-6055558	1	36-6055558				Grant Thornton LLP			3333 Finley Rd  Ste 700 			Downers Grove	IL	60515		IL	84-0755371	0					0	801235.09			0										
+	631-09-4495	1	631-09-4495				HELEN BERGERON			3005 Nancy Dr.  			Meraux	LA	70075		LA	84-0755371	0					0	2400			0										
+	436-54-0991	1	436-54-0991				Harry Holland			515 Birchwood Dr  			Monroe	LA	71203		LA	84-0755371	0					0	2025			0										
+	240-74-6704	1	240-74-6704				Capitol Magnolia, LLC			PO Box 13925  			Jackson	MS	39236-0000		MS	84-0755371	10386					0	0			0										
+	46-1607986	1	46-1607986				JBB Cypress, L.L.C.			2200 Rodney Parham Road, Ste 221  			Little Rock	AR	72212-0000		AR	84-0755371	17001					0	0			0										
+	72-0564521	1	72-0564521				Jones Fussell, LLP			P O Box 1810  			Covington	LA	70434-1810		LA	84-0755371	0					0	0			43048.83										
+	22-3856325	1	22-3856325				Filter Services of LouisIana LLC			2149 Ferndale Avenue  			Baton Rouge	LA	70808-0000		LA	84-0755371	0					0	660			0										
+	439-23-0751	1	439-23-0751				Kerry Charles			591 Dufilho Road  			Opelousas	LA	70570		LA	84-0755371	0					0	1800			0										
+	27-4256501	1	27-4256501				LEAF Capital Funding LLC			PO BOX 5066  			Hartford	CT	6102		CT	84-0755371	0					0	3233.26			0										
+	90-0993190	1	90-0993190				Lamyville Investors, LLC			2400 Newcombe Street, Suite A  			Monroe	LA	71201-0000		LA	84-0755371	14850					0	0			0										
+	52-1471842	1	52-1471842				RELX, Inc.			PO Box 733106  			Dallas	TX	75373-3106		TX	84-0755371	0					0	1821.09			0										
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
+																																						
