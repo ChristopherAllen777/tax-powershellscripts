@@ -1,0 +1,9 @@
+Recipient TIN	TIN Type	Customer ID	Recipient Acct #	Group	Recipient Entity Type	Recipient Name1	Recipient Name2	Recipient Name3	Recipient Address1	Recipient Address2	Recipient Address3	Recipient City	Recipient State/Province	Recipient Zip/Postal Code	Recipient Country	Foreign 
+Address 
+Indicator	Taxable State	Payer Code or EIN	Box 1 - Gross Distribution	Box 2a - Taxable Amount	Box 2b - Total distribution	Box 3 - Capital Gain	Box 4 - Federal Tax WH	Box 5 - Employee Contribution	Box 7 - Distribution Code	Box 12 FATCA Filing Requirement Indicator	Box 13 Date of Payment	Box 14 (State Tax W/H)	Box 15 (State/Payer’s State Info)	Payment Month	1035 Taxable Gain Indicator	CAEDD Annuity Indicator	1099R Plan Type	Check Number	Check Date	Transaction Description	Print Indicator
+407827377	2	5400007587				Walter L Parrott Jr			206 S Main Street			Greensburg	KY	42743-0000 	USA		KY	407827377	1880.61	852.71		852.71	135.27		7		11/12/2024 12:00:00 AM	27.05	KY	11				608284	11/12/2024 12:00:00 AM	SURRENDER	
+317584524	2	0600000092				Gregory Dillon			8400 East St Rd 356			Otwell	IN	47564	USA		IN	317584524	28677.23	0.00		0.00	0.00		7		8/25/2024 12:00:00 AM	0.00		8				607719	8/25/2024 12:00:00 AM	SURRENDER	
+404585267	2	5400001257				Bankers Life & Casualty			101 Bullitt Lane Suite 207			Louisville 	KY	40222	USA		KY	404585267	29618.16	0.00		9813.14	0.00		7		9/25/2024 12:00:00 AM	0.00		9	1			607852	9/25/2024 12:00:00 AM	1035 XCHG	
+406235363	2	5400007712				Chelcee O'Cull Billman			3029 Clarsburg Rd			Vanceburg	KY	41179	USA		KY	406235363	16782.52	0.00		9784.57	0.00		1		9/25/2024 12:00:00 AM	0.00	 	9				607852	9/25/2024 12:00:00 AM	ANNUITY WITHDRAWAL	
+																																					
+																																					
