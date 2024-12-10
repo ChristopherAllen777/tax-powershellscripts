@@ -1,4 +1,4 @@
-# Define the input XLSX file and output text file
+# Define the input CSV file and output text file
 $inputCsv = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\1099-NEC\1099-NEC-Testfile.csv"  # Change this to your input CSV file path
 $outputText = "1099-NEC-OutputFile(csv)-TxtTabDeliniated.txt"  # Change this to your desired output text file path
 

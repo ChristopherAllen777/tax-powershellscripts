@@ -1,5 +1,5 @@
-# Define the input XLSX file and output text file
-$inputCsv = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\1099-INT\1099-INT-Testfile.csv"  # Change this to your input XLSX file path
+# Define the input CSV file and output text file
+$inputCsv = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\1099-INT\1099-INT-Testfile.csv"  # Change this to your input CSV file path
 $outputText = "1099-INT-OutputFile(csv)-TxtTabDeliniated.txt"  # Change this to your desired output text file path
 
 # Read the data from the CSV file

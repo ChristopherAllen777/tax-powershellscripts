@@ -20,7 +20,6 @@ $outputLines += $headers
 # Define the list of columns that are numeric and should be formatted as money with 2 decimal places. (1.00)
 # Add additional columns as needed
 $moneyColumns = @(
-    "*Customer ID",
     "Box 1 Rents",
     "Box 10 Gross proceeds paid to an attorney", 
     "Box 5 Fishing boat proceeds", 
