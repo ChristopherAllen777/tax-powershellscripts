@@ -20,10 +20,10 @@ $outputLines += $headers
 # Define the list of columns that are numeric and should be formatted as money with 2 decimal places. (1.00)
 # Add additional columns as needed
 $moneyColumns = @(
-    "Box 1 Rents",
-    "Box 10 Gross proceeds paid to an attorney", 
-    "Box 5 Fishing boat proceeds", 
-    "Box 7 Nonemployee compensation"
+    "Box 1 Rents"
+    # "Box 10 Gross proceeds paid to an attorney", 
+    # "Box 5 Fishing boat proceeds", 
+    # "Box 7 Nonemployee compensation"
 )
 
 # Process each row of the Excel data
@@ -47,5 +47,3 @@ foreach ($row in $excelData) {
 $outputLines | Set-Content -Path $outputText
 
 Write-Host "XLSX data has been successfully transformed to a tab-delimited format with headers and formatted money values."
-
-
