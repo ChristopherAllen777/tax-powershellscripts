@@ -1,0 +1,22 @@
+Recipient TIN	TIN Type	Customer ID	Recipient Acct #	Group	Recipient Entity Type	Recipient Name1	Recipient Name2	Recipient Name3	Recipient Address1	Recipient Address2	Recipient Address3	Recipient City	Recipient State/Province	Recipient Zip/Postal Code	Recipient Country	Foreign Address Indicator	Taxable State	Payer Code or EIN	Box 1 Rents	Box 2 Royalties	Box 3 Other Income	Box 4 Fed Tax w/h	Box 5 Fishing boat proceeds	Box 6 Medical & health care pymts	Box 7 Direct Sales	Box 8 Substitute pymts in lieu of div or int	Box 9 Crop Insurance proceeds	Box 10 Gross proceeds paid to an attorney	Box 12 Sec 409A deferrals	Box 13 Excess golden parachute pymts	Box 14 Nonqualified deferred comp	Box 15 State tax w/h	Box 16 State/Payer state no.	Box 17 State income	Check Number	Check Date	Transaction Description	Print Indicator
+27-4829474		27-4829474				2622-2632 Metairie Lawn, LLC			120 Terry Parkway  			Gretna	LA	70056-0000			LA	84-0755371	102255.85					0.00				0.00										
+58-0137615		58-0137615				Alston & Bird LLP			1201 West Peachtree Street  			Atlanta	GA	30309			GA	84-0755371	0.00					0.00				27407.50										
+264-58-2300		264-58-2300				Betty Conner			4215 Holly Hill Road  			Lake Charles	LA	70605-0000			LA	84-0755371	23400.00					0.00				0.00										
+36-1236610		36-1236610				Blue Cross Blue Shield of TX			1001 East Lookout Drive  			Richardson	TX	75082			TX	84-0755371	0.00					1705549.43				0.00										
+75-1986963		75-1986963				Burdett Morgan Williamson & Boykin LLP			500 S. Taylor Suite 900 			Amarillo	TX	79101			TX	84-0755371	0.00					0.00				2571.00										
+72-1338606		72-1338606				Federick & Federick Rental Properties			405 S. Chestnut St.  			Tallulah	LA	71282-0000			LA	84-0755371	5600.00					0.00				0.00										
+95-1611234		95-1611234				Gibson, Dunn & Crutcher, LLP			P O Box 840723  			Los Angeles	CA	90084-0723			CA	84-0755371	0.00					0.00				36439.95										
+240-74-6704		240-74-6704				Capitol Magnolia, LLC			PO Box 13925  			Jackson	MS	39236-0000			MS	84-0755371	10386.00					0.00				0.00										
+46-1607986		46-1607986				JBB Cypress, L.L.C.			2200 Rodney Parham Road, Ste 221  			Little Rock	AR	72212-0000			AR	84-0755371	17001.00					0.00				0.00										
+72-0564521		72-0564521				Jones Fussell, LLP			P O Box 1810  			Covington	LA	70434-1810			LA	84-0755371	0.00					0.00				43048.83										
+90-0993190		90-0993190				Lamyville Investors, LLC			2400 Newcombe Street, Suite A  			Monroe	LA	71201-0000			LA	84-0755371	14850.00					0.00				0.00										
+72-1376574		72-1376574				McKay Lawler Franklin & Foreman, PLLC			PO Box 2488  			Ridgeland	MS	39158-0000			MS	84-0755371	0.00					0.00				53875.22										
+74-1201087		74-1201087				Norton Rose Fulbright US LLP			P O Box 122613  			Dallas	TX	75312-2613			TX	84-0755371	0.00					0.00				21002.40										
+72-0917103		72-0917103				Randolph McCormick Realty			131 McCormick Dr.  			Port Barre	LA	70577-0000			LA	84-0755371	23465.22					0.00				0.00										
+72-0743377		72-0743377				Rayne Plaza Shopping Center, Inc.			C/O Clarence Arsement 805 Parkerson Street 			Rayne 	LA	70578-0000			LA	84-0755371	17826.03					0.00				0.00										
+72-1424951		72-1424951				Terrebonne Investment Properties, L.L.C.			5809 Hwy 311  			Houma	LA	70361-0000			LA	84-0755371	22448.66					0.00				0.00										
+68-0509956		68-0509956				TR Domain 10, LLC			303 Colorado Street Ste 2600  			Austin	TX	78701			TX	84-0755371	1346990.91					0.00				0.00										
+27-1566635		27-1566635				Toups Labban Properties, LLC			2800 Youree Drive, Suite C-340  			Shreveport	LA	71104-0000			LA	84-0755371	24750.00					0.00				0.00										
+72-1250978		72-1250978				V's Investments, LLC			14356 University Ave. Ste 1  			Hammond	LA	70401-0000			LA	84-0755371	20400.00					0.00				0.00										
+72-1489551		72-1489551				Vermilion Holdings, LLC			2500 Highway 14 Suite A 			New Iberia 	LA	70560-0000			LA	84-0755371	28583.32					0.00				0.00										
+14-1907773		14-1907773				Whitney Avenue LLC			PO Box 6401  			Metairie	LA	70009-0000			LA	84-0755371	14640.00					0.00				0.00										

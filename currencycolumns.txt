@@ -1,0 +1,35 @@
+1099 INT - Columns Needing Decimal Formatting
+- Box 1 interest not in Box 3 T
+
+1099 MISC - Columns Needing Decimal Formatting
+- Box 1 Rents T
+- Box 2 Royalties U
+- Box 3 Other Income V
+- Box 4 Fed Tax w/h W
+- Box 5 Fishing boat proceeds X
+- Box 6 Medical & health care pymts Y
+- Box 7 Direct Sales Z
+- Box 8 Substitute pymts in lieu of div or int AA
+- Box 9 Crop Insurance proceeds AB
+- Box 10 Gross proceeds paid to an attorney AC
+- Box 12 Sec 409A deferrals AD
+- Box 13 Excess golden parachute pymts AE
+- Box 14 Nonqualified deferred comp AF
+- Box 15 State tax w/h AG
+- Box 17 State income AI
+
+1099 NEC - Columns Needing Decimal Formatting
+- Box 1 Nonemployee comp T
+- Box 2 Direct Sales U
+- Box 4 Fed Tax w/h W
+- Box 5 State tax w/h X
+- Box 7 State income Z
+
+1099 R - Columns Needing Decimal Formatting
+- Box 1 - Gross Distribution T
+- Box 2a - Taxable Amount U
+- Box 3 - Capital Gain W
+- Box 4 - Federal Tax WH X
+- Box 14 (State Tax W/H) AC
+ 
+ 
