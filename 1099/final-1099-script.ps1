@@ -1,5 +1,5 @@
 # Define the base directory containing all 1099 folders
-$baseDirectory = "C:\Users\5CA\Documents\Scripts\FormatCSVScript"
+$baseDirectory = "C:\Users\5CA\Documents\Scripts\FormatCSVScript\1099\"
 
 # List of subdirectories
 $subDirectories = @(
@@ -14,7 +14,7 @@ foreach ($subDir in $subDirectories) {
     $scriptPath = Join-Path -Path $baseDirectory -ChildPath $subDir
 
     # Define the specific script to run in each subdirectory
-    $scriptFile = Join-Path -Path $scriptPath -ChildPath "convert.ps1"  # Change "ProcessScript.ps1" to your script name
+    $scriptFile = Join-Path -Path $scriptPath -ChildPath "convert.ps1"
 
     # Check if the script exists
     if (Test-Path -Path $scriptFile) {
